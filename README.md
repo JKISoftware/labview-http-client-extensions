@@ -10,4 +10,5 @@ A set of VIs that extend the functionality of the LabVIEW HTTP Client library in
 ![image](https://user-images.githubusercontent.com/381432/105542174-c76f7480-5cad-11eb-8df3-fb00deadc6b9.png)
 
 # Development Plan
-Create an HTTP GET (Asynchronous) actor that can be aborted, if needed, and messages progress back to the caller.
+- Create an HTTP GET (Asynchronous) actor that can be aborted, if needed, and messages progress back to the caller.
+- Create an HTTP GET (Follow Redirects) that can follow redirects
