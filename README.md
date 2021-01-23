@@ -1,5 +1,4 @@
-# labview-http-client-extensions
-LabVIEW HTTP Client Extensions
+# LabVIEW HTTP Client Extensions
 
 A set of VIs that extend the functionality of the LabVIEW HTTP Client library in some useful ways:
 
