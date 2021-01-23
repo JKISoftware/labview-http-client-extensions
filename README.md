@@ -6,6 +6,9 @@ A set of VIs that extend the functionality of the LabVIEW HTTP Client library in
 - Asynchronous file download with progress monitoring and abort
 - Follow redirects
 
+# Download and Install
+[Download package on vipm.io](https://www.vipm.io/package/jki_lib_http_client_extensions/)
+
 # Proof of Concept (demonstrating use case)
 ![2021-01-22_17-46-45-2](https://user-images.githubusercontent.com/381432/105565157-2e0a8780-5cda-11eb-8715-e8ef35e02447.gif)
 ![image](https://user-images.githubusercontent.com/381432/105565260-d7517d80-5cda-11eb-98e9-84387756999f.png)
