@@ -1,3 +1,5 @@
+[![Image](https://www.vipm.io/package/jki_lib_http_client_extensions/badge.svg?metric=installs)](https://www.vipm.io/package/jki_lib_http_client_extensions/) [![Image](https://www.vipm.io/package/jki_lib_http_client_extensions/badge.svg?metric=stars)](https://www.vipm.io/package/jki_lib_http_client_extensions/)
+
 # LabVIEW HTTP Client Extensions
 ![image](https://user-images.githubusercontent.com/381432/105567072-8f375880-5ce4-11eb-82e8-8c9a94224876.png)
 
